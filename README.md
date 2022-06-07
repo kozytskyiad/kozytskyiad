@@ -1,4 +1,4 @@
-Physics undergraduate.
+Physics graduate student.
 
 Interests include:
 - Theorem proving languages and proof automation
